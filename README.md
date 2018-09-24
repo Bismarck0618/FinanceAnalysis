@@ -1,2 +1,8 @@
-# wavelet_nn_demo
-creat a wavelet  neutural network on tensorflow by python （使用tensorflow创建了一个小波神经网络demo）
+# FinanceAnalysis
+这个工程用来对使用一些技术方法，比如小波分析、神经网络等，对金融数据进行分析的效果验证，并方便与其他人交流学习之用。
+
+每一个验证方向，都包含一个pdf文件，详细讲述了该研究的具体细则，读者应首先阅读该文件！
+
+交流QQ群：885910393
+
+微信公众号：投资里的数据分析
