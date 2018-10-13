@@ -1,17 +1,16 @@
 # encoding = utf-8
 
-from General.GlobalSetting import *
+
 from SDK.SDKHeader import *
 import talib
-"""
-    三次样条拟合测试
-"""
-
-
 import matplotlib.pyplot as plt
 import numpy as np
+import tushare as ts
 
 
+"""
+    样条拟合测试
+"""
 step = 6
 
 sh_index = ts.get_hist_data('cyb')
