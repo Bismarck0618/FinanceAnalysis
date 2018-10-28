@@ -1,12 +1,11 @@
 # encoding = utf-8
 
-from General.GlobalSetting import *
-from SDK.SDKHeader import *
+import pandas as pd
 import tushare as ts
 
 # 全局变量
 
-code = '300183'
+code = '300508'
 
 
 # 获取该股票的历史数据
